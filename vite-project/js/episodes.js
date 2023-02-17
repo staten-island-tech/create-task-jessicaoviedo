@@ -456,3 +456,5 @@ const episodes = [
       "Sikowitz challenges the students to say yes to everything for one week. The gang agrees, and they soon find themselves out of their respective comfort zones.",
   },
 ];
+
+export { episodes };
