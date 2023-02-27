@@ -11,6 +11,10 @@
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Manrope', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 #app {
@@ -24,3 +28,11 @@ h1 {
   color: #32004F;
 }
 
+.form-parent{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Manrope', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
