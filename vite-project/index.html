@@ -4,46 +4,18 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>victorious</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500&family=IBM+Plex+Mono:wght@500;700&family=Manrope:wght@500;700&family=Raleway:wght@500&display=swap" rel="stylesheet">
+    <title>Vite App</title>
   </head>
-
-
-  <body>
-    <div id="app"></div>
-    <script type="module" src="./js/main.js"></script>
-    <section class="form-parent">
-      <form id="form">
-          <div class="form-inputs">
-              <div class="form-input">
-                  <label for="episode-search">search for episodes:</label>
-                  <input type="text" id="search-info" class="text-box" >
-                  <div class="hero-form-input">
-                    <label for="url"></label>
-                    <input type="submit" value="Submit" class="btn">
-                </div>
-              </div>
-              <div class="form-input">
-                <label for="character-search">search for characters:</label>
-                <input type="text" id="search-info" class="text-box" >
-                <div class="hero-form-input">
-                  <label for="url"></label>
-                  <input type="submit" value="Submit" class="btn">
-              </div>
-                    
-              <div class="form-input">
-                <label for="actor-search">search for actors:</label>
-                <input type="text" id="search-info" class="text-box" >
-                <div class="hero-form-input">
-                  <label for="url"></label>
-                  <input type="submit" value="Submit" class="btn">
-              </div>
-              </div>
-            </div>
-
-        </div>    
+  <body class="light">
     </section>
+    <div id="app"></div>
+    <button class="btn">change the theme!</button>
+      <button id="episodes-btn">episodes!</button>
+      <button id="characters-btn">characters!</button>
+      <button id="actors-btn">actors!</button>
+    </section>
+    <section class="display" id="display">
+    </section>
+    <script type="module" src="./js/main.js"></script>
   </body>
 </html>
