@@ -1,0 +1,21 @@
+
+.info-card{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 10rem;
+    padding: 5px;
+    border: 5px solid var(--border);
+    background-color: var(--card);
+}
+
+.character-img{
+    display: flex;
+    height: 25rem;
+    width: 25rem;
+    border-color: solid black 5px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
