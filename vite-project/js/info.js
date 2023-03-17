@@ -1,36 +1,36 @@
 const info = [
-        {
-          title: "Pilot",
-          id: 1,
-          episodenumber: 1,
-          season: 1,
-          description:
-            "After Tori fills in for her sister in a big musical showcase, she's asked to enrol at an elite performing arts high school. But once there, she wonders if she'll ever fit in.",
-          type: "episode",},
-        {
-          title: "The Bird Scene",
-          id: 2,
-          episodenumber: 2,
-          season: 1,
-          description:
-            "Tori goes all out to master an iconic Hollywood Arts monologue in Sikowitz's class. Meanwhile, Andre and Robbie join a ballet class to meet girls with disastrous results.",
-          type: "episode",},
-        {
-          title: "Stage Fighting",
-          id: 3,
-          episodenumber: 3,
-          season: 1,
-          description:
-            "Tori has to defend herself when Jade claims Tori hurt her in a stage fighting exercise, while Trina has to fend off Robbie when he thinks their stage kiss meant something.",
-          type: "episode",},
-        {
-          title: "The Birthweek Song",
-          id: 4,
-          episodenumber: 4,
-          season: 1,
-          description:
-            "Tori struggles to find the perfect birthday gift for Trina, then decides to write her a song as a present. Ungrateful Trina turns the song into cash by selling it.",
-          type: "episode",},
+{
+  title: "Pilot",
+  id: 1,
+  episodenumber: 1,
+  season: 1,
+  description:
+    "After Tori fills in for her sister in a big musical showcase, she's asked to enrol at an elite performing arts high school. But once there, she wonders if she'll ever fit in.",
+  type: "episode",},
+{
+  title: "The Bird Scene",
+  id: 2,
+  episodenumber: 2,
+  season: 1,
+  description:
+    "Tori goes all out to master an iconic Hollywood Arts monologue in Sikowitz's class. Meanwhile, Andre and Robbie join a ballet class to meet girls with disastrous results.",
+  type: "episode",},
+{
+  title: "Stage Fighting",
+  id: 3,
+  episodenumber: 3,
+  season: 1,
+  description:
+    "Tori has to defend herself when Jade claims Tori hurt her in a stage fighting exercise, while Trina has to fend off Robbie when he thinks their stage kiss meant something.",
+  type: "episode",},
+{
+  title: "The Birthweek Song",
+  id: 4,
+  episodenumber: 4,
+  season: 1,
+  description:
+    "Tori struggles to find the perfect birthday gift for Trina, then decides to write her a song as a present. Ungrateful Trina turns the song into cash by selling it.",
+  type: "episode",},
         {
           title: "Jade Dumps Beck",
           id: 5,
