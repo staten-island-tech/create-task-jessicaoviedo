@@ -517,7 +517,7 @@ const info = [
             charId: 9,
             img: "https://i.pinimg.com/564x/41/1b/f2/411bf210fa7818a35f074ca6666d5a15.jpg",
             charClass: "Recurring",
-            episodes: 46,
+            episodes: 47,
             type: "character",},
           {
             charName: "Erwin Sikowitz",
