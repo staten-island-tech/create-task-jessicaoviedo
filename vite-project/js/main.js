@@ -1,5 +1,5 @@
 import "../styles/style.css";
-import { DOM } from "./DOM";
+import { DOM } from "./dom";
 import { info } from "./info";
 
 document.querySelector("#app").innerHTML = `
